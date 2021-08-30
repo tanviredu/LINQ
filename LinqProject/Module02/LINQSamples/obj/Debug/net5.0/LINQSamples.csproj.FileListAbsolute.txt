@@ -1,0 +1,16 @@
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.exe
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.deps.json
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.runtimeconfig.json
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.runtimeconfig.dev.json
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.dll
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\ref\LINQSamples.dll
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\bin\Debug\net5.0\LINQSamples.pdb
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.csproj.AssemblyReference.cache
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.AssemblyInfoInputs.cache
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.AssemblyInfo.cs
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.csproj.CoreCompileInputs.cache
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.dll
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\ref\LINQSamples.dll
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.pdb
+E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\LINQSamples\obj\Debug\net5.0\LINQSamples.genruntimeconfig.cache
