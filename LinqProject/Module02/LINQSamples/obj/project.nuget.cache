@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y1cUolOnYlcBE+felPoOoExDALE4ntm3YTqu3Uc30a2s+BeBEzWvds+RWBcr/5j8CN6TwKCGyNaMA5UrYwqxQQ==",
+  "dgSpecHash": "8zkaRmiDnDesEX+vtYOHyPwgzppEswjwWFFJz/Skcfc3AJA+lZMuVxWhsMldSobxUst361061/AFP26LbuTUFg==",
   "success": true,
-  "projectFilePath": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
+  "projectFilePath": "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj": {}
+    "E:\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj": {}
   },
   "projects": {
-    "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj": {
+    "E:\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj",
+        "projectUniqueName": "E:\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj",
         "projectName": "Linq5practice",
-        "projectPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj",
+        "projectPath": "E:\\LINQ\\LinqProject\\Module02\\Linq5practice\\Linq5practice.csproj",
         "packagesPath": "C:\\Users\\tanvi\\.nuget\\packages\\",
-        "outputPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\Linq5practice\\obj\\",
+        "outputPath": "E:\\LINQ\\LinqProject\\Module02\\Linq5practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

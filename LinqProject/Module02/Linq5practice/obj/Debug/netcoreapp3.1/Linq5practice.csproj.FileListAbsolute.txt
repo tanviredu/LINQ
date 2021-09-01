@@ -11,3 +11,16 @@ E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp
 E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.dll
 E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.pdb
 E:\DEV_SKILL_COURSE\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.genruntimeconfig.cache
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.exe
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.deps.json
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.runtimeconfig.json
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.runtimeconfig.dev.json
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.dll
+E:\LINQ\LinqProject\Module02\Linq5practice\bin\Debug\netcoreapp3.1\Linq5practice.pdb
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.csproj.AssemblyReference.cache
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.AssemblyInfoInputs.cache
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.AssemblyInfo.cs
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.csproj.CoreCompileInputs.cache
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.dll
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.pdb
+E:\LINQ\LinqProject\Module02\Linq5practice\obj\Debug\netcoreapp3.1\Linq5practice.genruntimeconfig.cache

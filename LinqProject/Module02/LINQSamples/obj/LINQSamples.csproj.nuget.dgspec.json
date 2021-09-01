@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj": {}
+    "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj": {}
   },
   "projects": {
-    "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj": {
+    "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
+        "projectUniqueName": "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
         "projectName": "LINQSamples",
-        "projectPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
+        "projectPath": "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\LINQSamples.csproj",
         "packagesPath": "C:\\Users\\tanvi\\.nuget\\packages\\",
-        "outputPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LinqProject\\Module02\\LINQSamples\\obj\\",
+        "outputPath": "E:\\LINQ\\LinqProject\\Module02\\LINQSamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

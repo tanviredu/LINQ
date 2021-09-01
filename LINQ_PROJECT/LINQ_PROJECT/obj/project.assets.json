@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEV_SKILL_COURSE\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\LINQ_PROJECT.csproj",
+      "projectUniqueName": "E:\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\LINQ_PROJECT.csproj",
       "projectName": "LINQ_PROJECT",
-      "projectPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\LINQ_PROJECT.csproj",
+      "projectPath": "E:\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\LINQ_PROJECT.csproj",
       "packagesPath": "C:\\Users\\tanvi\\.nuget\\packages\\",
-      "outputPath": "E:\\DEV_SKILL_COURSE\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\obj\\",
+      "outputPath": "E:\\LINQ\\LINQ_PROJECT\\LINQ_PROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

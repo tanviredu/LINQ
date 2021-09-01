@@ -1,0 +1,13 @@
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.exe
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.deps.json
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.runtimeconfig.json
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.runtimeconfig.dev.json
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.dll
+E:\LINQ\LinqProject\Module02\Quantifier\bin\Debug\netcoreapp3.1\Quantifier.pdb
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.csproj.AssemblyReference.cache
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.AssemblyInfoInputs.cache
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.AssemblyInfo.cs
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.csproj.CoreCompileInputs.cache
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.dll
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.pdb
+E:\LINQ\LinqProject\Module02\Quantifier\obj\Debug\netcoreapp3.1\Quantifier.genruntimeconfig.cache
